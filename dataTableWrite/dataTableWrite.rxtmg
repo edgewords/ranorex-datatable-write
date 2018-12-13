@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.3">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="dataTableWrite"
+      id="3c13861c-678b-4d5f-beaa-48fbc348219e"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="dataTableWrite"
+      id="3c13861c-678b-4d5f-beaa-48fbc348219e"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

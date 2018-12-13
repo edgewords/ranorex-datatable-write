@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="dataTableWriteRepository"
+id="aef84fb0-e2f3-4d2d-8cf4-89e9756e82b5"
+rxversion="8.3">
+  <codegen
+  classname="dataTableWriteRepository"
+  namespace="dataTableWrite"/>
+  <rootfolder
+  name="Root"
+  id="e21d1845-91b7-41e6-b24e-98dd25334cf8"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

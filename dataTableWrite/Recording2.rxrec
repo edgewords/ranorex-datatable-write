@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="d667ecef-da11-44e7-a452-a9bf466faccf"
+mode="Global"
+rxversion="8.3">
+	<name>
+		Recording2
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording2"
+	namespace="dataTableWrite">
+	</codegen>
+	<variables>
+		<var
+		id="cb731719-a5ab-4c0d-b220-94b14f46e673"
+		name="readVal">
+		</var>
+	</variables>
+	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message=""
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="9c5ace5e-cc0e-44bf-ab35-3cae863e06df">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="Message"
+				variable="readVal">
+				</binding>
+			</bindings>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	id="aef84fb0-e2f3-4d2d-8cf4-89e9756e82b5"
+	name="dataTableWriteRepository"
+	relativepath="dataTableWriteRepository.rxrep"
+	rxversion="8.3">
+		<codegen
+		classname="dataTableWriteRepository"
+		namespace="dataTableWrite">
+		</codegen>
+		<rootfolder
+		id="e21d1845-91b7-41e6-b24e-98dd25334cf8"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording2.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
